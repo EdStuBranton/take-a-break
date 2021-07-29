@@ -6,7 +6,7 @@ It was one of the first things I built when I really started getting
 into learning python so I didn't have to look at the clock constantly
 to see whether or not I was within my 25 minutes of learning and 5 minutes
 of getting away from the screen. It has been updated recently with
-my newly acquired knowledge so look at bit more up to date. It's
+my newly acquired knowledge to look at bit more up to date. It's
 still not quite done yet, since the buttons for restart and stop
 don't work yet but I'll get to that at some point since it's currently
 in heavy use to give my study sessions some structure.
@@ -27,8 +27,8 @@ be doable.
 Critique would be that this would take you time
 to do everytime and since you're supposed to do
 25 minutes and a break of 5 minutes, this doesn't
-really work since writing that down might take extra
-so the question would be if you then take away from
+really work since writing that down might take extra time.
+So the question would be if you then take away from
 those 25 minutes and make it 23 minutes so you'll
 have 2 minutes to write down what you were working
 on? I think that would be a good compromise since
